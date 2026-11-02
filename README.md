@@ -125,3 +125,12 @@
 两种 EXE 均尚未代码签名，Windows 可能提示“未知发布者”。请核对本仓库来源与 SHA-256；已有用户升级前请退出旧版并备份数据。
 
 © 2026 郑州市爱蒙斯教育科技有限责任公司。对本软件中依法享有权利的部分保留相应权利。产品开发：躬行者。
+
+
+## 手机 App 下载
+
+[蒙仔笔记 Android 0.1.6 测试版](https://github.com/SevenDamon/mengzaibangong-releases/releases/tag/notebook-v0.1.6-test) · [直接下载 APK](https://github.com/SevenDamon/mengzaibangong-releases/releases/download/notebook-v0.1.6-test/Mengzai-Notebook-0.1.6-test.apk)
+
+约 86 KiB，公开下载，无需加入私有仓库。最低安装门槛 Android 8.0（API 26）并需较新的系统 WebView；各品牌未逐一实测，HarmonyOS 5/NEXT 尚未适配。当前为测试版、测试签名。安装前请阅读 Release 的兼容说明，已有旧版先备份再覆盖安装，不要卸载。
+
+手机可独立离线记录；同步需自己配置 WorkBuddy 服务、授权接收设备，并配合带灵感收件箱的电脑版 0.5.0。**本页公开电脑版 0.4.4 不含手机同步**；电脑版 0.5.0 目前仍在私有仓库，仅获邀账号可获取。
