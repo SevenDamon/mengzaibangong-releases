@@ -129,8 +129,8 @@
 
 ## 手机 App 下载
 
-[蒙仔笔记 Android 0.1.6 测试版](https://github.com/SevenDamon/mengzaibangong-releases/releases/tag/notebook-v0.1.6-test) · [直接下载 APK](https://github.com/SevenDamon/mengzaibangong-releases/releases/download/notebook-v0.1.6-test/Mengzai-Notebook-0.1.6-test.apk)
+[蒙仔笔记 Android 0.1.8 测试版](https://github.com/SevenDamon/mengzaibangong-releases/releases/tag/notebook-v0.1.8-test) · [直接下载 APK](https://github.com/SevenDamon/mengzaibangong-releases/releases/download/notebook-v0.1.8-test/Mengzai-Notebook-0.1.8-test.apk) · [SHA-256 校验](https://github.com/SevenDamon/mengzaibangong-releases/releases/download/notebook-v0.1.8-test/SHA256SUMS-Android-0.1.8.txt)
 
-约 86 KiB，公开下载，无需加入私有仓库。最低安装门槛 Android 8.0（API 26）并需较新的系统 WebView；各品牌未逐一实测，HarmonyOS 5/NEXT 尚未适配。当前为测试版、测试签名。安装前请阅读 Release 的兼容说明，已有旧版先备份再覆盖安装，不要卸载。
+约 90 KiB，公开下载，无需加入私有仓库。新增紧凑登录界面、预设分类、登录自动恢复，以及已撤销配对历史的单条/一键本机清理。最低安装门槛 Android 8.0（API 26）并需较新的系统 WebView；各品牌未逐一实测，HarmonyOS 5/NEXT 尚未适配。仍是可调试测试版、原测试签名。安装前阅读 Release 兼容说明，已有旧版先备份再覆盖安装，不卸载或清数据。
 
-手机可独立离线记录；同步需自己配置 WorkBuddy 服务、授权接收设备，并配合带灵感收件箱的电脑版 0.5.0。**本页公开电脑版 0.4.4 不含手机同步**；电脑版 0.5.0 目前仍在私有仓库，仅获邀账号可获取。
+手机可独立离线记录；同步需自己配置 WorkBuddy 服务、授权接收设备，并配合带灵感收件箱的电脑版，建议0.5.3。**本页公开电脑版 0.4.4 不含手机同步**；电脑版0.5.3在原私有仓库，仅获邀账号可获取。本公开仓库不包含应用源码。
